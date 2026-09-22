@@ -570,40 +570,352 @@ select {
 }
 
 .capa-verde {
-    background-image: url("images (1).jpg");
-    background: #315d55;
-    color: white;
+  background-color: #1c5c4a;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMUyYdbitoDZQZn0snup5y49U2SLtofgUSm4zbupo2xw&s=10");
+    aspect-ratio: 2 / 3;   
+    height: auto;
+    width: 100%;
+
+    border-radius: 3px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    padding: 10px;
+
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-weight: bold;
+
+    margin-bottom: 9px;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    overflow: hidden;
+    
 }
 
 .capa-azul {
     background: #124665;
-    color: white;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8NysVuIw0Y_fpKzpmxrGjObfAK7dlL_WD3NoqVkubLQ&s=10");
+      aspect-ratio: 2 / 3;   
+    height: auto;
+    width: 100%;
+
+    border-radius: 3px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    padding: 10px;
+
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-weight: bold;
+
+    margin-bottom: 9px;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    overflow: hidden;
+    
 }
 
 .capa-preta {
     background: #171717;
-    color: white;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPIyBDu7Bst66axKh8VUdiaSGpg6nb6rdN7whkQ_cXFA&s");
+    aspect-ratio: 2 / 3;   
+    height: auto;
+    width: 100%;
+
+    border-radius: 3px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    padding: 10px;
+
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-weight: bold;
+
+    margin-bottom: 9px;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    overflow: hidden;
+
+   
 }
 
 .capa-creme {
     background: #eadfc9;
-    color: #754a36;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeW41Rb7wED6AZx6v5WXeJEsTRkpn94yI6pwVzmpOKGg&s=10");
+     aspect-ratio: 2 / 3;   
+    height: auto;
+    width: 100%;
+
+    border-radius: 3px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    padding: 10px;
+
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-weight: bold;
+
+    margin-bottom: 9px;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    overflow: hidden;
 }
 
 .capa-vermelha {
     background: #6e1515;
-    color: white;
-    font-size: 25px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7pH-GLEvQPNEL7xZXra8YUEFv_6mjUDV65M9Sqd_fxA&s");
+     aspect-ratio: 2 / 3;   
+    height: auto;
+    width: 100%;
+
+    border-radius: 3px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    padding: 10px;
+
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-weight: bold;
+
+    margin-bottom: 9px;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    overflow: hidden;
+    
 }
 
 .capa-amarela {
     background: #e6c84b;
-    color: #47371b;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn24E0Eq37QLYd8PrXSkOnSFT6D7fyl3aCltBxlFqvNw&s=10");
+      aspect-ratio: 2 / 3;   
+    height: auto;
+    width: 100%;
+
+    border-radius: 3px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    padding: 10px;
+
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-weight: bold;
+
+    margin-bottom: 9px;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    overflow: hidden;
+    
 }
 
-.capa-laranja {
+.capa-cinza {
     background: #df7651;
-    color: white;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCKoduiyMDcVsKkTyw-J-VgJWq_2rsBBFRCujBOPy-DQ&s");
+      aspect-ratio: 2 / 3;   
+    height: auto;
+    width: 100%;
+
+    border-radius: 3px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    padding: 10px;
+
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-weight: bold;
+
+    margin-bottom: 9px;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    overflow: hidden;
+}
+.capa-rosa {
+    background: #e6c84b;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKwYRNwsn11JETZHWeWgDDzMMXi2EAH-paaOvPX_Mpvw&s=10");
+      aspect-ratio: 2 / 3;   
+    height: auto;
+    width: 100%;
+
+    border-radius: 3px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    padding: 10px;
+
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-weight: bold;
+
+    margin-bottom: 9px;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    overflow: hidden;
+}
+.capa-brown {
+    background: #e6c84b;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBz0GzrQcxPoQPn0ZMZNGwF67-KZqJBhdi8A8HyuuoBA&s=10");
+      aspect-ratio: 2 / 3;   
+    height: auto;
+    width: 100%;
+
+    border-radius: 3px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    padding: 10px;
+
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-weight: bold;
+
+    margin-bottom: 9px;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    overflow: hidden;
+}
+.capa-white {
+    background: #e6c84b;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqGDGL-zy5IV4xyRSyKb1JnDGchQWk98pIsTEljoYWcA&s=10");
+      aspect-ratio: 2 / 3;   
+    height: auto;
+    width: 100%;
+
+    border-radius: 3px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    padding: 10px;
+
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-weight: bold;
+
+    margin-bottom: 9px;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    overflow: hidden;
+}
+.capa-purpple {
+    background: #e6c84b;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSavg_a6q0L6OdkOnE3aDxhazY3Uj848PiN8JsbJoUnwQ&s");
+      aspect-ratio: 2 / 3;   
+    height: auto;
+    width: 100%;
+
+    border-radius: 3px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    padding: 10px;
+
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-weight: bold;
+
+    margin-bottom: 9px;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    overflow: hidden;
+}
+.capa-ciano {
+    background: #e6c84b;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDT63XsO_T_ox2HeUgeSsGR-CvfCT10wnf7P5BzYfHGw&s=10");
+      aspect-ratio: 2 / 3;   
+    height: auto;
+    width: 100%;
+
+    border-radius: 3px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    padding: 10px;
+
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-weight: bold;
+
+    margin-bottom: 9px;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    overflow: hidden;
 }
 
 
